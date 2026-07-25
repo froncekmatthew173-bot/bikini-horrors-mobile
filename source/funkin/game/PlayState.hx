@@ -20,6 +20,7 @@ import funkin.backend.scripting.DummyScript;
 import funkin.backend.scripting.Script;
 import funkin.backend.scripting.ScriptPack;
 import funkin.backend.scripting.events.*;
+import funkin.backend.scripting.events.character.*;
 import funkin.backend.scripting.events.gameplay.*;
 import funkin.backend.scripting.events.note.*;
 import funkin.backend.system.Conductor;
@@ -351,13 +352,17 @@ class PlayState extends MusicBeatState
 	 */
 	public var scoreTxt:FunkinText;
 	/**
-	 * FunkinText that shows your amount of misses.
+	 * FunkinText that shows your misses.
 	 */
 	public var missesTxt:FunkinText;
 	/**
 	 * FunkinText that shows your accuracy.
 	 */
 	public var accuracyTxt:FunkinText;
+	/**
+	 * FunkinText that shows botplay indicator.
+	 */
+	public var botplayTxt:FunkinText;
 
 	/**
 	 * Score for the current week.
@@ -822,10 +827,13 @@ class PlayState extends MusicBeatState
 			var startingPos:FlxPoint = strumLine.strumPos != null ?
 				FlxPoint.get(strumLine.strumPos[0] == 0 ? strXPos : strumLine.strumPos[0], strumLine.strumPos[1]) :
 				FlxPoint.get(strXPos, this.strumLine.y);
+			var isCPU = strumLine.type == 2 || (!coopMode && !((strumLine.type == 1 && !opponentMode) || (strumLine.type == 0 && opponentMode)));
+			if (Options.botplay && strumLine.type == 1)
+				isCPU = true;
 			var strLine = new StrumLine(chars,
 				startingPos,
 				strumLine.strumScale == null ? 1 : strumLine.strumScale,
-				strumLine.type == 2 || (!coopMode && !((strumLine.type == 1 && !opponentMode) || (strumLine.type == 0 && opponentMode))),
+				isCPU,
 				strumLine.type != 1, coopMode ? ((strumLine.type == 1) != opponentMode ? controlsP1 : controlsP2) : controls,
 				strumLine.vocalsSuffix
 			);
@@ -911,6 +919,14 @@ class PlayState extends MusicBeatState
 		scoreTxt.alignment = RIGHT;
 		missesTxt.alignment = CENTER;
 		accuracyTxt.alignment = LEFT;
+
+		botplayTxt = new FunkinText(0, healthBarBG.y - 40, Std.int(healthBarBG.width), "BOTPLAY", 20);
+		botplayTxt.scrollFactor.set();
+		botplayTxt.alignment = CENTER;
+		botplayTxt.screenCenter(X);
+		botplayTxt.visible = Options.botplay;
+		botplayTxt.cameras = [camHUD];
+		add(botplayTxt);
 		if (updateRatingStuff != null)
 			updateRatingStuff();
 
@@ -1921,10 +1937,55 @@ class PlayState extends MusicBeatState
 							character.idleSuffix = event.params[1] ? strLine.defaultAnimSuffix : "";
 						}
 				}
-			case "Play Animation":
-				if (strumLines.members[event.params[0]] != null && strumLines.members[event.params[0]].characters != null)
-					for (char in strumLines.members[event.params[0]].characters)
-						if (char != null && char.hasAnim(event.params[1])) char.playAnim(event.params[1], event.params[2], event.params[3] == "NONE" ? null : event.params[3]);
+		case "Play Animation":
+			if (strumLines.members[event.params[0]] != null && strumLines.members[event.params[0]].characters != null)
+				for (char in strumLines.members[event.params[0]].characters)
+					if (char != null && char.hasAnim(event.params[1])) char.playAnim(event.params[1], event.params[2], event.params[3] == "NONE" ? null : event.params[3]);
+		case "Change Character":
+			var strumLineIdx:Int = event.params[0];
+			var newCharName:String = event.params[1];
+			if (strumLines.members[strumLineIdx] != null && strumLines.members[strumLineIdx].characters != null) {
+				var strLine = strumLines.members[strumLineIdx];
+				var oldCharacter = strLine.characters[0];
+				if (oldCharacter == null || oldCharacter.curCharacter == newCharName) break;
+
+				var changeEvent = gameAndCharsEvent("onChangeCharacter", EventManager.get(ChangeCharacterEvent).recycle(strumLineIdx, newCharName));
+				if (changeEvent.cancelled) break;
+
+				var posName = switch(strLine.data.type) {
+					case 0: "dad";
+					case 1: "boyfriend";
+					case 2: "girlfriend";
+					default: "dad";
+				};
+				if (strLine.data.position != null) posName = strLine.data.position;
+
+				var newCharacter = new Character(oldCharacter.x, oldCharacter.y, newCharName, stage.isCharFlipped(newCharName, oldCharacter.isPlayer));
+				stage.applyCharStuff(newCharacter, posName, 0);
+
+				insert(members.indexOf(oldCharacter), newCharacter);
+				newCharacter.active = newCharacter.visible = true;
+				remove(oldCharacter);
+
+				if (stage.characterPoses[newCharName] == null) newCharacter.setPosition(oldCharacter.x, oldCharacter.y);
+				if (newCharacter.hasAnim(oldCharacter.getAnimName())) newCharacter.playAnim(oldCharacter.getAnimName(), true, oldCharacter.lastAnimContext, false, oldCharacter.animation?.curAnim?.curFrame);
+				strLine.characters[0] = newCharacter;
+
+				if (strumLineIdx != 2) {
+					var oldIcon = oldCharacter.isPlayer ? iconP1 : iconP2;
+					oldIcon.setIcon(newCharacter.getIcon());
+					if (Options.colorHealthBar) {
+						healthBar.createFilledBar(
+							dad != null && dad.iconColor != null ? dad.iconColor : (PlayState.opponentMode ? 0xFF66FF33 : 0xFFFF0000),
+							boyfriend != null && boyfriend.iconColor != null ? boyfriend.iconColor : (PlayState.opponentMode ? 0xFFFF0000 : 0xFF66FF33)
+						);
+						healthBar.updateHitbox();
+						healthBar.updateValueFromParent();
+					}
+				}
+
+				oldCharacter.destroy();
+			}
 			case "Unknown": // nothing
 		}
 		
