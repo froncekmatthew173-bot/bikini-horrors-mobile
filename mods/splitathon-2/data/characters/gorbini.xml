@@ -1,9 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<!-- Converted using Psych2CNE hackx2.github.io/Psych2CNE/ -->
-<character isPlayer="false" icon="gorbini" color="#f63737" sprite="gorbini_assets" flipX="false" holdTime="6.1">
-  <anim name="idle" anim="gorbidle" loop="false" x="-10" y="-23" />
-  <anim name="singRIGHT" anim="gorbright" loop="false" x="-34" y="-23" />
-  <anim name="singLEFT" anim="gorbleft" loop="false" x="41" y="-23" />
-  <anim name="singUP" anim="gorbup" loop="false" x="-10" y="-23" />
-  <anim name="singDOWN" anim="gorbdown" loop="false" x="-10" y="-23" />
-</character>

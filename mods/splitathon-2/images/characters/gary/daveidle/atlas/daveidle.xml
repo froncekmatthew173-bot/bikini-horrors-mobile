@@ -1,4 +1,0 @@
-<TextureAtlas imagePath="daveidle.png">
-<SubTexture name="daveidle0" x="0" y="0" width="325" height="490"/>
-<SubTexture name="daveidle1" x="325" y="0" width="325" height="490"/>
-</TextureAtlas>

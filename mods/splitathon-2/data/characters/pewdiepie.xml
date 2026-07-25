@@ -1,9 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<!-- Converted using Psych2CNE hackx2.github.io/Psych2CNE/ -->
-<character isPlayer="false" icon="pewdiepie" color="#261f31" sprite="pewdiepie" flipX="false" holdTime="6.1" camy="370">
-  <anim name="idle" anim="pewdiepie idle" loop="false" x="-59" y="-370" />
-  <anim name="singRIGHT" anim="pewdiepies sing right" loop="false" x="-121" y="-398" />
-  <anim name="singUP" anim="pewdiepie sing up" loop="false" x="-121" y="-398" />
-  <anim name="singLEFT" anim="pewdiepie sing up" loop="false" x="-121" y="-398" />
-  <anim name="singDOWN" anim="pewdiepies sing right" loop="false" x="-121" y="-398" />
-</character>

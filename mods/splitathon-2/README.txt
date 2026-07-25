@@ -1,1 +1,0 @@
-Put this whole folder on your mods folder of the last version of Codename.
