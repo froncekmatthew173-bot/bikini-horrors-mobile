@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="singDOWN.png">
+<SubTexture name="singDOWN0" x="0" y="0" width="490" height="626"/>
+<SubTexture name="singDOWN1" x="490" y="0" width="494" height="624"/>
+<SubTexture name="singDOWN2" x="984" y="0" width="494" height="624"/>
+<SubTexture name="singDOWN3" x="1478" y="0" width="443" height="640"/>
+<SubTexture name="singDOWN4" x="0" y="640" width="443" height="640"/>
+<SubTexture name="singDOWN5" x="443" y="640" width="450" height="640"/>
+<SubTexture name="singDOWN6" x="893" y="640" width="450" height="640"/>
+<SubTexture name="singDOWN7" x="1343" y="640" width="450" height="640"/>
+<SubTexture name="singDOWN8" x="0" y="1280" width="450" height="640"/>
+<SubTexture name="singDOWN9" x="450" y="1280" width="450" height="640"/>
+<SubTexture name="singDOWN10" x="900" y="1280" width="450" height="640"/>
+<SubTexture name="singDOWN11" x="1350" y="1280" width="450" height="640"/>
+<SubTexture name="singDOWN12" x="0" y="1920" width="450" height="640"/>
+<SubTexture name="singDOWN13" x="450" y="1920" width="450" height="640"/>
+<SubTexture name="singDOWN14" x="900" y="1920" width="450" height="640"/>
+</TextureAtlas>

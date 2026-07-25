@@ -1,0 +1,146 @@
+{
+	"ATLAS": "msingRIGHT_pissed.png",
+	"SPRITES": [
+		{
+			"h": 637,
+			"w": 519,
+			"x": 0,
+			"y": 0,
+			"name": "msingRIGHT_pissed0"
+		},
+		{
+			"h": 624,
+			"w": 437,
+			"x": 519,
+			"y": 0,
+			"name": "msingRIGHT_pissed1"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 956,
+			"y": 0,
+			"name": "msingRIGHT_pissed2"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 1381,
+			"y": 0,
+			"name": "msingRIGHT_pissed3"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 0,
+			"y": 637,
+			"name": "msingRIGHT_pissed4"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 425,
+			"y": 637,
+			"name": "msingRIGHT_pissed5"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 850,
+			"y": 637,
+			"name": "msingRIGHT_pissed6"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 1275,
+			"y": 637,
+			"name": "msingRIGHT_pissed7"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 0,
+			"y": 1249,
+			"name": "msingRIGHT_pissed8"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 425,
+			"y": 1249,
+			"name": "msingRIGHT_pissed9"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 850,
+			"y": 1249,
+			"name": "msingRIGHT_pissed10"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 1275,
+			"y": 1249,
+			"name": "msingRIGHT_pissed11"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 0,
+			"y": 1861,
+			"name": "msingRIGHT_pissed12"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 425,
+			"y": 1861,
+			"name": "msingRIGHT_pissed13"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 850,
+			"y": 1861,
+			"name": "msingRIGHT_pissed14"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 1275,
+			"y": 1861,
+			"name": "msingRIGHT_pissed15"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 0,
+			"y": 2473,
+			"name": "msingRIGHT_pissed16"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 425,
+			"y": 2473,
+			"name": "msingRIGHT_pissed17"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 850,
+			"y": 2473,
+			"name": "msingRIGHT_pissed18"
+		},
+		{
+			"h": 612,
+			"w": 425,
+			"x": 1275,
+			"y": 2473,
+			"name": "msingRIGHT_pissed19"
+		}
+	],
+	"SCALE": 1
+}

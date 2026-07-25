@@ -1,0 +1,31 @@
+<TextureAtlas imagePath="SHADDUP.png">
+<SubTexture name="SHADDUP0" x="0" y="0" width="102" height="149"/>
+<SubTexture name="SHADDUP1" x="102" y="0" width="105" height="151"/>
+<SubTexture name="SHADDUP2" x="207" y="0" width="104" height="152"/>
+<SubTexture name="SHADDUP3" x="311" y="0" width="104" height="150"/>
+<SubTexture name="SHADDUP4" x="415" y="0" width="105" height="151"/>
+<SubTexture name="SHADDUP5" x="520" y="0" width="104" height="152"/>
+<SubTexture name="SHADDUP6" x="624" y="0" width="104" height="150"/>
+<SubTexture name="SHADDUP7" x="728" y="0" width="105" height="151"/>
+<SubTexture name="SHADDUP8" x="833" y="0" width="104" height="152"/>
+<SubTexture name="SHADDUP9" x="937" y="0" width="104" height="150"/>
+<SubTexture name="SHADDUP10" x="1041" y="0" width="105" height="151"/>
+<SubTexture name="SHADDUP11" x="1146" y="0" width="115" height="152"/>
+<SubTexture name="SHADDUP12" x="1261" y="0" width="129" height="152"/>
+<SubTexture name="SHADDUP13" x="1390" y="0" width="198" height="198"/>
+<SubTexture name="SHADDUP14" x="1588" y="0" width="153" height="130"/>
+<SubTexture name="SHADDUP15" x="1741" y="0" width="198" height="198"/>
+<SubTexture name="SHADDUP16" x="0" y="198" width="130" height="153"/>
+<SubTexture name="SHADDUP17" x="130" y="198" width="194" height="199"/>
+<SubTexture name="SHADDUP18" x="324" y="198" width="183" height="167"/>
+<SubTexture name="SHADDUP19" x="507" y="198" width="199" height="193"/>
+<SubTexture name="SHADDUP20" x="706" y="198" width="129" height="152"/>
+<SubTexture name="SHADDUP21" x="835" y="198" width="198" height="198"/>
+<SubTexture name="SHADDUP22" x="1033" y="198" width="153" height="130"/>
+<SubTexture name="SHADDUP23" x="1186" y="198" width="198" height="198"/>
+<SubTexture name="SHADDUP24" x="1384" y="198" width="130" height="153"/>
+<SubTexture name="SHADDUP25" x="1514" y="198" width="194" height="199"/>
+<SubTexture name="SHADDUP26" x="1708" y="198" width="183" height="167"/>
+<SubTexture name="SHADDUP27" x="0" y="397" width="199" height="193"/>
+<SubTexture name="SHADDUP28" x="199" y="397" width="129" height="152"/>
+</TextureAtlas>

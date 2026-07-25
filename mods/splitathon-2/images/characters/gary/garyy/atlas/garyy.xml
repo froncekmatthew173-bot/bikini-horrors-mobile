@@ -1,0 +1,31 @@
+<TextureAtlas imagePath="garyy.png">
+<SubTexture name="garyy0" x="0" y="0" width="202" height="178"/>
+<SubTexture name="garyy1" x="202" y="0" width="202" height="178"/>
+<SubTexture name="garyy2" x="404" y="0" width="202" height="178"/>
+<SubTexture name="garyy3" x="606" y="0" width="202" height="178"/>
+<SubTexture name="garyy4" x="808" y="0" width="202" height="178"/>
+<SubTexture name="garyy5" x="1010" y="0" width="202" height="178"/>
+<SubTexture name="garyy6" x="1212" y="0" width="202" height="178"/>
+<SubTexture name="garyy7" x="1414" y="0" width="202" height="178"/>
+<SubTexture name="garyy8" x="1616" y="0" width="202" height="178"/>
+<SubTexture name="garyy9" x="1818" y="0" width="202" height="178"/>
+<SubTexture name="garyy10" x="0" y="178" width="202" height="178"/>
+<SubTexture name="garyy11" x="202" y="178" width="202" height="178"/>
+<SubTexture name="garyy12" x="404" y="178" width="202" height="178"/>
+<SubTexture name="garyy13" x="606" y="178" width="202" height="178"/>
+<SubTexture name="garyy14" x="808" y="178" width="202" height="178"/>
+<SubTexture name="garyy15" x="1010" y="178" width="202" height="178"/>
+<SubTexture name="garyy16" x="1212" y="178" width="202" height="178"/>
+<SubTexture name="garyy17" x="1414" y="178" width="202" height="178"/>
+<SubTexture name="garyy18" x="1616" y="178" width="202" height="178"/>
+<SubTexture name="garyy19" x="1818" y="178" width="202" height="178"/>
+<SubTexture name="garyy20" x="0" y="356" width="202" height="178"/>
+<SubTexture name="garyy21" x="202" y="356" width="202" height="178"/>
+<SubTexture name="garyy22" x="404" y="356" width="202" height="178"/>
+<SubTexture name="garyy23" x="606" y="356" width="202" height="178"/>
+<SubTexture name="garyy24" x="808" y="356" width="202" height="178"/>
+<SubTexture name="garyy25" x="1010" y="356" width="202" height="178"/>
+<SubTexture name="garyy26" x="1212" y="356" width="202" height="178"/>
+<SubTexture name="garyy27" x="1414" y="356" width="202" height="178"/>
+<SubTexture name="garyy28" x="1616" y="356" width="202" height="178"/>
+</TextureAtlas>

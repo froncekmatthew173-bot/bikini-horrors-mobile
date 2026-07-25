@@ -1,0 +1,111 @@
+{
+	"ATLAS": "msingDOWN_pissed.png",
+	"SPRITES": [
+		{
+			"h": 583,
+			"w": 524,
+			"x": 0,
+			"y": 0,
+			"name": "msingDOWN_pissed0"
+		},
+		{
+			"h": 592,
+			"w": 373,
+			"x": 524,
+			"y": 0,
+			"name": "msingDOWN_pissed1"
+		},
+		{
+			"h": 588,
+			"w": 365,
+			"x": 897,
+			"y": 0,
+			"name": "msingDOWN_pissed2"
+		},
+		{
+			"h": 588,
+			"w": 365,
+			"x": 1262,
+			"y": 0,
+			"name": "msingDOWN_pissed3"
+		},
+		{
+			"h": 588,
+			"w": 365,
+			"x": 1627,
+			"y": 0,
+			"name": "msingDOWN_pissed4"
+		},
+		{
+			"h": 588,
+			"w": 365,
+			"x": 0,
+			"y": 592,
+			"name": "msingDOWN_pissed5"
+		},
+		{
+			"h": 588,
+			"w": 365,
+			"x": 365,
+			"y": 592,
+			"name": "msingDOWN_pissed6"
+		},
+		{
+			"h": 588,
+			"w": 365,
+			"x": 730,
+			"y": 592,
+			"name": "msingDOWN_pissed7"
+		},
+		{
+			"h": 588,
+			"w": 365,
+			"x": 1095,
+			"y": 592,
+			"name": "msingDOWN_pissed8"
+		},
+		{
+			"h": 588,
+			"w": 365,
+			"x": 1460,
+			"y": 592,
+			"name": "msingDOWN_pissed9"
+		},
+		{
+			"h": 588,
+			"w": 365,
+			"x": 0,
+			"y": 1180,
+			"name": "msingDOWN_pissed10"
+		},
+		{
+			"h": 588,
+			"w": 365,
+			"x": 365,
+			"y": 1180,
+			"name": "msingDOWN_pissed11"
+		},
+		{
+			"h": 588,
+			"w": 365,
+			"x": 730,
+			"y": 1180,
+			"name": "msingDOWN_pissed12"
+		},
+		{
+			"h": 588,
+			"w": 365,
+			"x": 1095,
+			"y": 1180,
+			"name": "msingDOWN_pissed13"
+		},
+		{
+			"h": 588,
+			"w": 365,
+			"x": 1460,
+			"y": 1180,
+			"name": "msingDOWN_pissed14"
+		}
+	],
+	"SCALE": 1
+}

@@ -1,0 +1,12 @@
+<TextureAtlas imagePath="niceup.png">
+<SubTexture name="niceup0" x="0" y="0" width="125" height="110"/>
+<SubTexture name="niceup1" x="125" y="0" width="125" height="110"/>
+<SubTexture name="niceup2" x="250" y="0" width="127" height="106"/>
+<SubTexture name="niceup3" x="377" y="0" width="127" height="106"/>
+<SubTexture name="niceup4" x="504" y="0" width="127" height="106"/>
+<SubTexture name="niceup5" x="631" y="0" width="127" height="106"/>
+<SubTexture name="niceup6" x="758" y="0" width="127" height="106"/>
+<SubTexture name="niceup7" x="885" y="0" width="127" height="106"/>
+<SubTexture name="niceup8" x="1012" y="0" width="127" height="106"/>
+<SubTexture name="niceup9" x="1139" y="0" width="127" height="106"/>
+</TextureAtlas>

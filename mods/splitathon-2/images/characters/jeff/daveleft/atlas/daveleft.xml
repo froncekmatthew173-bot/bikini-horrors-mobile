@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="daveleft.png">
+<SubTexture name="daveleft0" x="0" y="0" width="611" height="601"/>
+<SubTexture name="daveleft1" x="611" y="0" width="611" height="601"/>
+<SubTexture name="daveleft2" x="1222" y="0" width="608" height="618"/>
+<SubTexture name="daveleft3" x="0" y="618" width="601" height="618"/>
+<SubTexture name="daveleft4" x="601" y="618" width="601" height="618"/>
+<SubTexture name="daveleft5" x="1202" y="618" width="601" height="618"/>
+<SubTexture name="daveleft6" x="0" y="1236" width="601" height="618"/>
+<SubTexture name="daveleft7" x="601" y="1236" width="601" height="618"/>
+<SubTexture name="daveleft8" x="1202" y="1236" width="601" height="618"/>
+<SubTexture name="daveleft9" x="0" y="1854" width="601" height="618"/>
+<SubTexture name="daveleft10" x="601" y="1854" width="601" height="618"/>
+<SubTexture name="daveleft11" x="1202" y="1854" width="601" height="618"/>
+<SubTexture name="daveleft12" x="0" y="2472" width="601" height="618"/>
+<SubTexture name="daveleft13" x="601" y="2472" width="601" height="618"/>
+<SubTexture name="daveleft14" x="1202" y="2472" width="601" height="618"/>
+</TextureAtlas>

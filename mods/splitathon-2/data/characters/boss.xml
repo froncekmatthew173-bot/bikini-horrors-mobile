@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Converted using Psych2CNE hackx2.github.io/Psych2CNE/ -->
+<character isPlayer="false" icon="boss" color="#20233d" sprite="bossman" flipX="false" holdTime="6.1" x="-200" y="80" camx="180">
+  <anim name="singLEFT" anim="The Boss Sing note LEFT" loop="false" x="-127" y="119" />
+  <anim name="singDOWN" anim="The Boss Sing note DOWN" loop="false" x="-238" y="74" />
+  <anim name="singUP" anim="The Boss Sing note UP" loop="false" x="-187" y="163" />
+  <anim name="singRIGHT" anim="The Boss Sing note RIGHT" loop="false" x="-336" y="79" />
+  <anim name="idle" anim="The Boss idle dance" loop="false" x="-208" y="145" />
+</character>

@@ -1,0 +1,18 @@
+<TextureAtlas imagePath="UH_OH.png">
+<SubTexture name="UH_OH0" x="0" y="0" width="99" height="133"/>
+<SubTexture name="UH_OH1" x="99" y="0" width="46" height="180"/>
+<SubTexture name="UH_OH2" x="145" y="0" width="70" height="168"/>
+<SubTexture name="UH_OH3" x="215" y="0" width="89" height="153"/>
+<SubTexture name="UH_OH4" x="304" y="0" width="89" height="153"/>
+<SubTexture name="UH_OH5" x="393" y="0" width="90" height="152"/>
+<SubTexture name="UH_OH6" x="483" y="0" width="90" height="152"/>
+<SubTexture name="UH_OH7" x="573" y="0" width="89" height="151"/>
+<SubTexture name="UH_OH8" x="662" y="0" width="89" height="151"/>
+<SubTexture name="UH_OH9" x="751" y="0" width="88" height="151"/>
+<SubTexture name="UH_OH10" x="839" y="0" width="88" height="151"/>
+<SubTexture name="UH_OH11" x="927" y="0" width="88" height="151"/>
+<SubTexture name="UH_OH12" x="1015" y="0" width="88" height="151"/>
+<SubTexture name="UH_OH13" x="1103" y="0" width="88" height="151"/>
+<SubTexture name="UH_OH14" x="1191" y="0" width="88" height="151"/>
+<SubTexture name="UH_OH15" x="1279" y="0" width="88" height="151"/>
+</TextureAtlas>

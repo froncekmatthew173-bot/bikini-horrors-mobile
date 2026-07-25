@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jeff_nicedown.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="nicedown0000" x="0" y="0" width="99" height="95" frameX="-2" frameY="0" frameWidth="100" frameHeight="94"/>
+	<SubTexture name="nicedown0001" x="0" y="0" width="99" height="95" frameX="-2" frameY="0" frameWidth="100" frameHeight="94"/>
+	<SubTexture name="nicedown0002" x="0" y="95" width="97" height="96" frameX="-3" frameY="1" frameWidth="100" frameHeight="94"/>
+	<SubTexture name="nicedown0003" x="0" y="95" width="97" height="96" frameX="-3" frameY="1" frameWidth="100" frameHeight="94"/>
+	<SubTexture name="nicedown0004" x="0" y="95" width="97" height="96" frameX="-3" frameY="1" frameWidth="100" frameHeight="94"/>
+	<SubTexture name="nicedown0005" x="0" y="95" width="97" height="96" frameX="-3" frameY="1" frameWidth="100" frameHeight="94"/>
+	<SubTexture name="nicedown0006" x="0" y="95" width="97" height="96" frameX="-3" frameY="1" frameWidth="100" frameHeight="94"/>
+	<SubTexture name="nicedown0007" x="0" y="95" width="97" height="96" frameX="-3" frameY="1" frameWidth="100" frameHeight="94"/>
+	<SubTexture name="nicedown0008" x="0" y="95" width="97" height="96" frameX="-3" frameY="1" frameWidth="100" frameHeight="94"/>
+	<SubTexture name="nicedown0009" x="0" y="95" width="97" height="96" frameX="-3" frameY="1" frameWidth="100" frameHeight="94"/>
+</TextureAtlas>

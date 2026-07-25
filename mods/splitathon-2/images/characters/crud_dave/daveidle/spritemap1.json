@@ -1,0 +1,20 @@
+{
+	"ATLAS": "daveidle.png",
+	"SPRITES": [
+		{
+			"h": 490,
+			"w": 325,
+			"x": 0,
+			"y": 0,
+			"name": "daveidle0"
+		},
+		{
+			"h": 490,
+			"w": 325,
+			"x": 325,
+			"y": 0,
+			"name": "daveidle1"
+		}
+	],
+	"SCALE": 1
+}

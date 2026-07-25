@@ -1,0 +1,111 @@
+{
+	"ATLAS": "singRIGHT_pissed.png",
+	"SPRITES": [
+		{
+			"h": 638,
+			"w": 518,
+			"x": 0,
+			"y": 0,
+			"name": "singRIGHT_pissed0"
+		},
+		{
+			"h": 638,
+			"w": 518,
+			"x": 518,
+			"y": 0,
+			"name": "singRIGHT_pissed1"
+		},
+		{
+			"h": 610,
+			"w": 459,
+			"x": 1036,
+			"y": 0,
+			"name": "singRIGHT_pissed2"
+		},
+		{
+			"h": 610,
+			"w": 459,
+			"x": 1495,
+			"y": 0,
+			"name": "singRIGHT_pissed3"
+		},
+		{
+			"h": 643,
+			"w": 483,
+			"x": 0,
+			"y": 638,
+			"name": "singRIGHT_pissed4"
+		},
+		{
+			"h": 643,
+			"w": 483,
+			"x": 483,
+			"y": 638,
+			"name": "singRIGHT_pissed5"
+		},
+		{
+			"h": 642,
+			"w": 480,
+			"x": 966,
+			"y": 638,
+			"name": "singRIGHT_pissed6"
+		},
+		{
+			"h": 642,
+			"w": 480,
+			"x": 1446,
+			"y": 638,
+			"name": "singRIGHT_pissed7"
+		},
+		{
+			"h": 642,
+			"w": 480,
+			"x": 0,
+			"y": 1281,
+			"name": "singRIGHT_pissed8"
+		},
+		{
+			"h": 642,
+			"w": 480,
+			"x": 480,
+			"y": 1281,
+			"name": "singRIGHT_pissed9"
+		},
+		{
+			"h": 642,
+			"w": 480,
+			"x": 960,
+			"y": 1281,
+			"name": "singRIGHT_pissed10"
+		},
+		{
+			"h": 642,
+			"w": 480,
+			"x": 1440,
+			"y": 1281,
+			"name": "singRIGHT_pissed11"
+		},
+		{
+			"h": 642,
+			"w": 480,
+			"x": 0,
+			"y": 1923,
+			"name": "singRIGHT_pissed12"
+		},
+		{
+			"h": 642,
+			"w": 480,
+			"x": 480,
+			"y": 1923,
+			"name": "singRIGHT_pissed13"
+		},
+		{
+			"h": 642,
+			"w": 480,
+			"x": 960,
+			"y": 1923,
+			"name": "singRIGHT_pissed14"
+		}
+	],
+	"SCALE": 1
+}

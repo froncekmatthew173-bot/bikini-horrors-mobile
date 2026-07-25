@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Converted using Psych2CNE hackx2.github.io/Psych2CNE/ -->
+<character isPlayer="false" icon="smolldude" color="#ffffff" sprite="Small_Guy" flipX="false" holdTime="6.1" y="120" camx="140" camy="520">
+  <anim name="idle" anim="idle" loop="false" x="-230" y="-480" />
+  <anim name="singLEFT" anim="left" loop="false" x="-240" y="-481" />
+  <anim name="singDOWN" anim="down" loop="false" x="-234" y="-482" />
+  <anim name="singUP" anim="up" loop="false" x="-240" y="-472" />
+  <anim name="singRIGHT" anim="right" loop="false" x="-230" y="-479" />
+</character>

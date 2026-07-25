@@ -1,0 +1,20 @@
+{
+	"animations": [
+		{
+			"prefix": "garybackonstage0",
+			"fps": 24,
+			"loop": false,
+			"name": "default"
+		}
+	],
+	"image": "garybackonstage",
+	"position": [
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"scale": 1
+}

@@ -16,6 +16,8 @@ docs/doc.xml
 mods/*
 !mods/bikini-horrors/
 !mods/bikini-horrors/**
+!mods/splitathon-2/
+!mods/splitathon-2/**
 !mods/readme.txt
 addons/*
 !addons/readme.txt

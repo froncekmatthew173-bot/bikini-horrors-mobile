@@ -1,0 +1,12 @@
+<TextureAtlas imagePath="sdown.png">
+<SubTexture name="sdown0" x="0" y="0" width="110" height="80"/>
+<SubTexture name="sdown1" x="110" y="0" width="111" height="67"/>
+<SubTexture name="sdown2" x="221" y="0" width="111" height="67"/>
+<SubTexture name="sdown3" x="332" y="0" width="111" height="67"/>
+<SubTexture name="sdown4" x="443" y="0" width="111" height="67"/>
+<SubTexture name="sdown5" x="554" y="0" width="111" height="67"/>
+<SubTexture name="sdown6" x="665" y="0" width="111" height="67"/>
+<SubTexture name="sdown7" x="776" y="0" width="111" height="67"/>
+<SubTexture name="sdown8" x="887" y="0" width="111" height="67"/>
+<SubTexture name="sdown9" x="998" y="0" width="111" height="67"/>
+</TextureAtlas>

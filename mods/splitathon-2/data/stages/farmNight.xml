@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-stage>
+<stage scrollspeed="1" name="farmNight" zoom="0.9">
+	<layer name="bg"/>
+	<layer name="mid"/>
+	<layer name="fg"/>
+	<layer name="chars"/>
+	<sprite x="-600" scroll="0.3" sprite="backgrounds/shared/sky_night" y="-200" name="bg"/>
+	<sprite x="350" scroll="0.55" sprite="backgrounds/farm/gm_flatgrass" y="55" name="flatgrass"/>
+	<sprite x="-473" scroll="0.65" sprite="backgrounds/farm/orangey hills" y="100" name="hills"/>
+	<sprite x="100" scroll="0.7" sprite="backgrounds/farm/funfarmhouse" y="125" name="farmhouse"/>
+	<sprite x="-600" sprite="backgrounds/farm/grass lands" y="500" name="grassLand"/>
+	<sprite x="-700" sprite="backgrounds/farm/cornFence" y="200" name="cornFence"/>
+	<sprite x="1100" sprite="backgrounds/farm/cornFence2" y="250" name="cornFence2"/>
+	<sprite sprite="backgrounds/farm/sign" y="350" name="sign"/>
+	<gf scroll="1"/>
+	<dad/>
+	<bf/>
+</stage>

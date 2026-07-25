@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Converted using Psych2CNE hackx2.github.io/Psych2CNE/ -->
+<character isPlayer="false" icon="dave-cool" color="#0f5fff" sprite="rapBattle/thecoolerdave" flipX="false" holdTime="4" x="-30" y="180" camx="-170" camy="-50">
+  <anim name="idle" anim="idle" loop="false" x="0" y="0" />
+  <anim name="singLEFT" anim="left0" loop="false" x="-13" y="3" />
+  <anim name="singDOWN" anim="down0" loop="false" x="0" y="-10" />
+  <anim name="singUP" anim="up0" loop="false" x="-22" y="16" />
+  <anim name="singRIGHT" anim="right0" loop="false" x="-18" y="3" />
+</character>

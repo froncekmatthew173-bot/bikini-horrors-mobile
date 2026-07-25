@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="singLEFT.png">
+<SubTexture name="singLEFT0" x="0" y="0" width="584" height="612"/>
+<SubTexture name="singLEFT1" x="584" y="0" width="584" height="612"/>
+<SubTexture name="singLEFT2" x="1168" y="0" width="576" height="634"/>
+<SubTexture name="singLEFT3" x="0" y="634" width="576" height="634"/>
+<SubTexture name="singLEFT4" x="576" y="634" width="551" height="644"/>
+<SubTexture name="singLEFT5" x="1127" y="634" width="551" height="644"/>
+<SubTexture name="singLEFT6" x="0" y="1278" width="545" height="645"/>
+<SubTexture name="singLEFT7" x="545" y="1278" width="545" height="645"/>
+<SubTexture name="singLEFT8" x="1090" y="1278" width="546" height="645"/>
+<SubTexture name="singLEFT9" x="0" y="1923" width="546" height="645"/>
+<SubTexture name="singLEFT10" x="546" y="1923" width="546" height="645"/>
+<SubTexture name="singLEFT11" x="1092" y="1923" width="546" height="645"/>
+<SubTexture name="singLEFT12" x="0" y="2568" width="546" height="645"/>
+<SubTexture name="singLEFT13" x="546" y="2568" width="546" height="645"/>
+<SubTexture name="singLEFT14" x="1092" y="2568" width="546" height="645"/>
+</TextureAtlas>

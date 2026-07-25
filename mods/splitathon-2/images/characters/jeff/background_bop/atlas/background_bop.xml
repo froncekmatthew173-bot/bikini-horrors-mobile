@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="background_bop.png">
+<SubTexture name="background_bop0" x="0" y="0" width="90" height="136"/>
+<SubTexture name="background_bop1" x="90" y="0" width="90" height="136"/>
+<SubTexture name="background_bop2" x="180" y="0" width="92" height="138"/>
+<SubTexture name="background_bop3" x="272" y="0" width="92" height="138"/>
+<SubTexture name="background_bop4" x="364" y="0" width="99" height="149"/>
+<SubTexture name="background_bop5" x="463" y="0" width="99" height="149"/>
+<SubTexture name="background_bop6" x="562" y="0" width="100" height="150"/>
+<SubTexture name="background_bop7" x="662" y="0" width="100" height="150"/>
+<SubTexture name="background_bop8" x="762" y="0" width="100" height="150"/>
+<SubTexture name="background_bop9" x="862" y="0" width="100" height="150"/>
+<SubTexture name="background_bop10" x="962" y="0" width="100" height="150"/>
+<SubTexture name="background_bop11" x="1062" y="0" width="100" height="150"/>
+<SubTexture name="background_bop12" x="1162" y="0" width="100" height="150"/>
+<SubTexture name="background_bop13" x="1262" y="0" width="100" height="150"/>
+<SubTexture name="background_bop14" x="1362" y="0" width="100" height="150"/>
+</TextureAtlas>

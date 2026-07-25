@@ -1,0 +1,12 @@
+<TextureAtlas imagePath="up.png">
+<SubTexture name="up0" x="0" y="0" width="127" height="123"/>
+<SubTexture name="up1" x="127" y="0" width="124" height="123"/>
+<SubTexture name="up2" x="251" y="0" width="116" height="117"/>
+<SubTexture name="up3" x="367" y="0" width="111" height="113"/>
+<SubTexture name="up4" x="478" y="0" width="116" height="111"/>
+<SubTexture name="up5" x="594" y="0" width="113" height="109"/>
+<SubTexture name="up6" x="707" y="0" width="117" height="109"/>
+<SubTexture name="up7" x="824" y="0" width="115" height="108"/>
+<SubTexture name="up8" x="939" y="0" width="116" height="108"/>
+<SubTexture name="up9" x="1055" y="0" width="113" height="108"/>
+</TextureAtlas>

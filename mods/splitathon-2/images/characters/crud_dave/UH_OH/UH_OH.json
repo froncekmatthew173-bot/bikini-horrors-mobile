@@ -1,0 +1,20 @@
+{
+	"animations": [
+		{
+			"prefix": "UH_OH0",
+			"fps": 24,
+			"loop": false,
+			"name": "default"
+		}
+	],
+	"image": "UH_OH",
+	"position": [
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"scale": 1
+}

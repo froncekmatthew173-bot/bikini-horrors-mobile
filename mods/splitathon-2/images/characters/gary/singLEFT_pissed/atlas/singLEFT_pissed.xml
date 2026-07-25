@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="singLEFT_pissed.png">
+<SubTexture name="singLEFT_pissed0" x="0" y="0" width="676" height="606"/>
+<SubTexture name="singLEFT_pissed1" x="676" y="0" width="676" height="606"/>
+<SubTexture name="singLEFT_pissed2" x="1352" y="0" width="624" height="630"/>
+<SubTexture name="singLEFT_pissed3" x="0" y="630" width="624" height="630"/>
+<SubTexture name="singLEFT_pissed4" x="624" y="630" width="541" height="638"/>
+<SubTexture name="singLEFT_pissed5" x="1165" y="630" width="541" height="638"/>
+<SubTexture name="singLEFT_pissed6" x="0" y="1268" width="545" height="638"/>
+<SubTexture name="singLEFT_pissed7" x="545" y="1268" width="545" height="638"/>
+<SubTexture name="singLEFT_pissed8" x="1090" y="1268" width="545" height="639"/>
+<SubTexture name="singLEFT_pissed9" x="0" y="1907" width="545" height="639"/>
+<SubTexture name="singLEFT_pissed10" x="545" y="1907" width="545" height="639"/>
+<SubTexture name="singLEFT_pissed11" x="1090" y="1907" width="545" height="639"/>
+<SubTexture name="singLEFT_pissed12" x="0" y="2546" width="545" height="639"/>
+<SubTexture name="singLEFT_pissed13" x="545" y="2546" width="545" height="639"/>
+<SubTexture name="singLEFT_pissed14" x="1090" y="2546" width="545" height="639"/>
+</TextureAtlas>

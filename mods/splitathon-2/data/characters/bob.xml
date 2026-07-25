@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Converted using Psych2CNE hackx2.github.io/Psych2CNE/ -->
+<character isPlayer="false" icon="bob" color="#ffffff" sprite="bob_asset" flipX="true" holdTime="4" y="350" camy="-100">
+  <anim name="idle" anim="bob_idle" loop="false" x="-25" y="78" />
+  <anim name="singLEFT" anim="bob_LEFT" loop="false" x="-29" y="79" />
+  <anim name="singDOWN" anim="bob_DOWN" loop="false" x="-25" y="78" />
+  <anim name="singUP" anim="bob_UP" loop="false" x="-24" y="79" />
+  <anim name="singRIGHT" anim="bob_RIGHT" loop="false" x="-27" y="76" />
+</character>

@@ -1,0 +1,20 @@
+{
+	"animations": [
+		{
+			"prefix": "daveleft0",
+			"fps": 24,
+			"loop": false,
+			"name": "default"
+		}
+	],
+	"image": "daveleft",
+	"position": [
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"scale": 1
+}

@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="davedown.png">
+<SubTexture name="davedown0" x="0" y="0" width="487" height="568"/>
+<SubTexture name="davedown1" x="487" y="0" width="487" height="568"/>
+<SubTexture name="davedown2" x="974" y="0" width="453" height="592"/>
+<SubTexture name="davedown3" x="1427" y="0" width="463" height="582"/>
+<SubTexture name="davedown4" x="0" y="592" width="463" height="582"/>
+<SubTexture name="davedown5" x="463" y="592" width="463" height="582"/>
+<SubTexture name="davedown6" x="926" y="592" width="463" height="582"/>
+<SubTexture name="davedown7" x="1389" y="592" width="463" height="582"/>
+<SubTexture name="davedown8" x="0" y="1174" width="463" height="582"/>
+<SubTexture name="davedown9" x="463" y="1174" width="463" height="582"/>
+<SubTexture name="davedown10" x="926" y="1174" width="463" height="582"/>
+<SubTexture name="davedown11" x="1389" y="1174" width="463" height="582"/>
+<SubTexture name="davedown12" x="0" y="1756" width="463" height="582"/>
+<SubTexture name="davedown13" x="463" y="1756" width="463" height="582"/>
+<SubTexture name="davedown14" x="926" y="1756" width="463" height="582"/>
+</TextureAtlas>

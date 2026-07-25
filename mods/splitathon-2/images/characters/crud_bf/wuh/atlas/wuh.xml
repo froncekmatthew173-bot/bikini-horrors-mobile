@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="wuh.png">
+<SubTexture name="wuh0" x="0" y="0" width="372" height="433"/>
+<SubTexture name="wuh1" x="372" y="0" width="362" height="434"/>
+<SubTexture name="wuh2" x="734" y="0" width="388" height="458"/>
+<SubTexture name="wuh3" x="1122" y="0" width="384" height="491"/>
+<SubTexture name="wuh4" x="1506" y="0" width="384" height="491"/>
+<SubTexture name="wuh5" x="0" y="491" width="384" height="491"/>
+<SubTexture name="wuh6" x="384" y="491" width="384" height="491"/>
+<SubTexture name="wuh7" x="768" y="491" width="384" height="491"/>
+<SubTexture name="wuh8" x="1152" y="491" width="384" height="491"/>
+<SubTexture name="wuh9" x="1536" y="491" width="384" height="491"/>
+<SubTexture name="wuh10" x="0" y="982" width="384" height="491"/>
+<SubTexture name="wuh11" x="384" y="982" width="384" height="491"/>
+<SubTexture name="wuh12" x="768" y="982" width="384" height="491"/>
+<SubTexture name="wuh13" x="1152" y="982" width="384" height="491"/>
+<SubTexture name="wuh14" x="1536" y="982" width="373" height="498"/>
+</TextureAtlas>

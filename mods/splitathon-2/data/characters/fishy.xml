@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Converted using Psych2CNE hackx2.github.io/Psych2CNE/ -->
+<character isPlayer="false" icon="fishy" color="#eb8700" sprite="fishyAssets" flipX="false" holdTime="6.1" y="390">
+  <anim name="singLEFT" anim="Fish Left Note" loop="false" x="-29" y="0" />
+  <anim name="singDOWN" anim="Fish Down Note" loop="false" x="-30" y="0" />
+  <anim name="singUP" anim="Fish Up Note" loop="false" x="-36" y="5" />
+  <anim name="singRIGHT" anim="Fish Right Note" loop="false" x="-44" y="0" />
+  <anim name="idle" anim="Fish Idle" loop="false" x="-30" y="0" />
+</character>

@@ -1,0 +1,12 @@
+<TextureAtlas imagePath="down.png">
+<SubTexture name="down0" x="0" y="0" width="110" height="87"/>
+<SubTexture name="down1" x="110" y="0" width="110" height="87"/>
+<SubTexture name="down2" x="220" y="0" width="108" height="89"/>
+<SubTexture name="down3" x="328" y="0" width="104" height="91"/>
+<SubTexture name="down4" x="432" y="0" width="105" height="91"/>
+<SubTexture name="down5" x="537" y="0" width="105" height="91"/>
+<SubTexture name="down6" x="642" y="0" width="108" height="91"/>
+<SubTexture name="down7" x="750" y="0" width="108" height="90"/>
+<SubTexture name="down8" x="858" y="0" width="109" height="90"/>
+<SubTexture name="down9" x="967" y="0" width="108" height="90"/>
+</TextureAtlas>

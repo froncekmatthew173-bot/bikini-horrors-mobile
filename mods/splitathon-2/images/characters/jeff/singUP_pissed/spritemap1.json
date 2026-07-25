@@ -1,0 +1,111 @@
+{
+	"ATLAS": "singUP_pissed.png",
+	"SPRITES": [
+		{
+			"h": 760,
+			"w": 371,
+			"x": 0,
+			"y": 0,
+			"name": "singUP_pissed0"
+		},
+		{
+			"h": 760,
+			"w": 371,
+			"x": 371,
+			"y": 0,
+			"name": "singUP_pissed1"
+		},
+		{
+			"h": 726,
+			"w": 366,
+			"x": 742,
+			"y": 0,
+			"name": "singUP_pissed2"
+		},
+		{
+			"h": 726,
+			"w": 366,
+			"x": 1108,
+			"y": 0,
+			"name": "singUP_pissed3"
+		},
+		{
+			"h": 684,
+			"w": 453,
+			"x": 1474,
+			"y": 0,
+			"name": "singUP_pissed4"
+		},
+		{
+			"h": 684,
+			"w": 453,
+			"x": 0,
+			"y": 760,
+			"name": "singUP_pissed5"
+		},
+		{
+			"h": 683,
+			"w": 436,
+			"x": 453,
+			"y": 760,
+			"name": "singUP_pissed6"
+		},
+		{
+			"h": 683,
+			"w": 436,
+			"x": 889,
+			"y": 760,
+			"name": "singUP_pissed7"
+		},
+		{
+			"h": 685,
+			"w": 434,
+			"x": 1325,
+			"y": 760,
+			"name": "singUP_pissed8"
+		},
+		{
+			"h": 685,
+			"w": 434,
+			"x": 0,
+			"y": 1445,
+			"name": "singUP_pissed9"
+		},
+		{
+			"h": 684,
+			"w": 434,
+			"x": 434,
+			"y": 1445,
+			"name": "singUP_pissed10"
+		},
+		{
+			"h": 684,
+			"w": 434,
+			"x": 868,
+			"y": 1445,
+			"name": "singUP_pissed11"
+		},
+		{
+			"h": 684,
+			"w": 434,
+			"x": 1302,
+			"y": 1445,
+			"name": "singUP_pissed12"
+		},
+		{
+			"h": 684,
+			"w": 434,
+			"x": 0,
+			"y": 2130,
+			"name": "singUP_pissed13"
+		},
+		{
+			"h": 684,
+			"w": 434,
+			"x": 434,
+			"y": 2130,
+			"name": "singUP_pissed14"
+		}
+	],
+	"SCALE": 1
+}

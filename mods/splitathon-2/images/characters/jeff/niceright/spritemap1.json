@@ -1,0 +1,76 @@
+{
+	"ATLAS": "niceright.png",
+	"SPRITES": [
+		{
+			"h": 100,
+			"w": 113,
+			"x": 0,
+			"y": 0,
+			"name": "niceright0"
+		},
+		{
+			"h": 100,
+			"w": 113,
+			"x": 113,
+			"y": 0,
+			"name": "niceright1"
+		},
+		{
+			"h": 98,
+			"w": 114,
+			"x": 226,
+			"y": 0,
+			"name": "niceright2"
+		},
+		{
+			"h": 98,
+			"w": 114,
+			"x": 340,
+			"y": 0,
+			"name": "niceright3"
+		},
+		{
+			"h": 98,
+			"w": 114,
+			"x": 454,
+			"y": 0,
+			"name": "niceright4"
+		},
+		{
+			"h": 98,
+			"w": 114,
+			"x": 568,
+			"y": 0,
+			"name": "niceright5"
+		},
+		{
+			"h": 98,
+			"w": 114,
+			"x": 682,
+			"y": 0,
+			"name": "niceright6"
+		},
+		{
+			"h": 98,
+			"w": 114,
+			"x": 796,
+			"y": 0,
+			"name": "niceright7"
+		},
+		{
+			"h": 98,
+			"w": 114,
+			"x": 910,
+			"y": 0,
+			"name": "niceright8"
+		},
+		{
+			"h": 98,
+			"w": 114,
+			"x": 1024,
+			"y": 0,
+			"name": "niceright9"
+		}
+	],
+	"SCALE": 1
+}

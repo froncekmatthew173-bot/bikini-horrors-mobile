@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="msingDOWN.png">
+<SubTexture name="msingDOWN0" x="0" y="0" width="491" height="626"/>
+<SubTexture name="msingDOWN1" x="491" y="0" width="373" height="593"/>
+<SubTexture name="msingDOWN2" x="864" y="0" width="365" height="589"/>
+<SubTexture name="msingDOWN3" x="1229" y="0" width="365" height="589"/>
+<SubTexture name="msingDOWN4" x="1594" y="0" width="365" height="589"/>
+<SubTexture name="msingDOWN5" x="0" y="626" width="365" height="589"/>
+<SubTexture name="msingDOWN6" x="365" y="626" width="365" height="589"/>
+<SubTexture name="msingDOWN7" x="730" y="626" width="365" height="589"/>
+<SubTexture name="msingDOWN8" x="1095" y="626" width="365" height="589"/>
+<SubTexture name="msingDOWN9" x="1460" y="626" width="365" height="589"/>
+<SubTexture name="msingDOWN10" x="0" y="1215" width="365" height="589"/>
+<SubTexture name="msingDOWN11" x="365" y="1215" width="365" height="589"/>
+<SubTexture name="msingDOWN12" x="730" y="1215" width="365" height="589"/>
+<SubTexture name="msingDOWN13" x="1095" y="1215" width="365" height="589"/>
+<SubTexture name="msingDOWN14" x="1460" y="1215" width="365" height="589"/>
+</TextureAtlas>

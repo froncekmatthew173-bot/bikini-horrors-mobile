@@ -1,0 +1,20 @@
+{
+	"animations": [
+		{
+			"prefix": "garyup0",
+			"fps": 24,
+			"loop": false,
+			"name": "default"
+		}
+	],
+	"image": "garyup",
+	"position": [
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"scale": 1
+}

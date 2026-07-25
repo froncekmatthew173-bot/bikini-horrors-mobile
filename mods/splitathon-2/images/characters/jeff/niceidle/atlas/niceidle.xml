@@ -1,0 +1,12 @@
+<TextureAtlas imagePath="niceidle.png">
+<SubTexture name="niceidle0" x="0" y="0" width="127" height="99"/>
+<SubTexture name="niceidle1" x="127" y="0" width="127" height="99"/>
+<SubTexture name="niceidle2" x="254" y="0" width="127" height="97"/>
+<SubTexture name="niceidle3" x="381" y="0" width="127" height="97"/>
+<SubTexture name="niceidle4" x="508" y="0" width="128" height="96"/>
+<SubTexture name="niceidle5" x="636" y="0" width="128" height="96"/>
+<SubTexture name="niceidle6" x="764" y="0" width="126" height="98"/>
+<SubTexture name="niceidle7" x="890" y="0" width="126" height="98"/>
+<SubTexture name="niceidle8" x="1016" y="0" width="128" height="99"/>
+<SubTexture name="niceidle9" x="1144" y="0" width="128" height="99"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jeff_niceleft.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="niceleft0000" x="0" y="0" width="131" height="102" frameX="-1" frameY="-2" frameWidth="132" frameHeight="102"/>
+	<SubTexture name="niceleft0001" x="0" y="0" width="131" height="102" frameX="-1" frameY="-2" frameWidth="132" frameHeight="102"/>
+	<SubTexture name="niceleft0002" x="131" y="0" width="131" height="102" frameX="-1" frameY="-2" frameWidth="132" frameHeight="102"/>
+	<SubTexture name="niceleft0003" x="131" y="0" width="131" height="102" frameX="-1" frameY="-2" frameWidth="132" frameHeight="102"/>
+	<SubTexture name="niceleft0004" x="131" y="0" width="131" height="102" frameX="-1" frameY="-2" frameWidth="132" frameHeight="102"/>
+	<SubTexture name="niceleft0005" x="131" y="0" width="131" height="102" frameX="-1" frameY="-2" frameWidth="132" frameHeight="102"/>
+	<SubTexture name="niceleft0006" x="131" y="0" width="131" height="102" frameX="-1" frameY="-2" frameWidth="132" frameHeight="102"/>
+	<SubTexture name="niceleft0007" x="131" y="0" width="131" height="102" frameX="-1" frameY="-2" frameWidth="132" frameHeight="102"/>
+	<SubTexture name="niceleft0008" x="131" y="0" width="131" height="102" frameX="-1" frameY="-2" frameWidth="132" frameHeight="102"/>
+	<SubTexture name="niceleft0009" x="131" y="0" width="131" height="102" frameX="-1" frameY="-2" frameWidth="132" frameHeight="102"/>
+</TextureAtlas>

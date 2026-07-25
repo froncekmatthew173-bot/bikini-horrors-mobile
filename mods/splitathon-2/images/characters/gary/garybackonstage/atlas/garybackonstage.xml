@@ -1,0 +1,28 @@
+<TextureAtlas imagePath="garybackonstage.png">
+<SubTexture name="garybackonstage0" x="0" y="0" width="114" height="113"/>
+<SubTexture name="garybackonstage1" x="114" y="0" width="114" height="113"/>
+<SubTexture name="garybackonstage2" x="228" y="0" width="115" height="95"/>
+<SubTexture name="garybackonstage3" x="343" y="0" width="115" height="95"/>
+<SubTexture name="garybackonstage4" x="458" y="0" width="88" height="120"/>
+<SubTexture name="garybackonstage5" x="546" y="0" width="88" height="120"/>
+<SubTexture name="garybackonstage6" x="634" y="0" width="91" height="115"/>
+<SubTexture name="garybackonstage7" x="725" y="0" width="91" height="115"/>
+<SubTexture name="garybackonstage8" x="816" y="0" width="93" height="114"/>
+<SubTexture name="garybackonstage9" x="909" y="0" width="93" height="114"/>
+<SubTexture name="garybackonstage10" x="1002" y="0" width="93" height="114"/>
+<SubTexture name="garybackonstage11" x="1095" y="0" width="93" height="114"/>
+<SubTexture name="garybackonstage12" x="1188" y="0" width="93" height="114"/>
+<SubTexture name="garybackonstage13" x="1281" y="0" width="93" height="114"/>
+<SubTexture name="garybackonstage14" x="1374" y="0" width="93" height="114"/>
+<SubTexture name="garybackonstage15" x="1467" y="0" width="93" height="114"/>
+<SubTexture name="garybackonstage16" x="1560" y="0" width="93" height="114"/>
+<SubTexture name="garybackonstage17" x="1653" y="0" width="93" height="114"/>
+<SubTexture name="garybackonstage18" x="1746" y="0" width="93" height="114"/>
+<SubTexture name="garybackonstage19" x="1839" y="0" width="93" height="114"/>
+<SubTexture name="garybackonstage20" x="1932" y="0" width="93" height="114"/>
+<SubTexture name="garybackonstage21" x="0" y="120" width="93" height="114"/>
+<SubTexture name="garybackonstage22" x="93" y="120" width="101" height="117"/>
+<SubTexture name="garybackonstage23" x="194" y="120" width="101" height="117"/>
+<SubTexture name="garybackonstage24" x="295" y="120" width="107" height="131"/>
+<SubTexture name="garybackonstage25" x="402" y="120" width="107" height="131"/>
+</TextureAtlas>

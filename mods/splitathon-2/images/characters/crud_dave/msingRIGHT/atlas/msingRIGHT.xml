@@ -1,0 +1,22 @@
+<TextureAtlas imagePath="msingRIGHT.png">
+<SubTexture name="msingRIGHT0" x="0" y="0" width="456" height="672"/>
+<SubTexture name="msingRIGHT1" x="456" y="0" width="508" height="680"/>
+<SubTexture name="msingRIGHT2" x="964" y="0" width="437" height="625"/>
+<SubTexture name="msingRIGHT3" x="1401" y="0" width="425" height="613"/>
+<SubTexture name="msingRIGHT4" x="0" y="680" width="425" height="613"/>
+<SubTexture name="msingRIGHT5" x="425" y="680" width="425" height="613"/>
+<SubTexture name="msingRIGHT6" x="850" y="680" width="425" height="613"/>
+<SubTexture name="msingRIGHT7" x="1275" y="680" width="425" height="613"/>
+<SubTexture name="msingRIGHT8" x="0" y="1293" width="425" height="613"/>
+<SubTexture name="msingRIGHT9" x="425" y="1293" width="425" height="613"/>
+<SubTexture name="msingRIGHT10" x="850" y="1293" width="425" height="613"/>
+<SubTexture name="msingRIGHT11" x="1275" y="1293" width="425" height="613"/>
+<SubTexture name="msingRIGHT12" x="0" y="1906" width="425" height="613"/>
+<SubTexture name="msingRIGHT13" x="425" y="1906" width="425" height="613"/>
+<SubTexture name="msingRIGHT14" x="850" y="1906" width="425" height="613"/>
+<SubTexture name="msingRIGHT15" x="1275" y="1906" width="425" height="613"/>
+<SubTexture name="msingRIGHT16" x="0" y="2519" width="425" height="613"/>
+<SubTexture name="msingRIGHT17" x="425" y="2519" width="425" height="613"/>
+<SubTexture name="msingRIGHT18" x="850" y="2519" width="425" height="613"/>
+<SubTexture name="msingRIGHT19" x="1275" y="2519" width="425" height="613"/>
+</TextureAtlas>

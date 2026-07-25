@@ -1,0 +1,22 @@
+<TextureAtlas imagePath="FUCKYOU_.png">
+<SubTexture name="FUCKYOU_0" x="0" y="0" width="497" height="481"/>
+<SubTexture name="FUCKYOU_1" x="497" y="0" width="398" height="385"/>
+<SubTexture name="FUCKYOU_2" x="895" y="0" width="384" height="372"/>
+<SubTexture name="FUCKYOU_3" x="1279" y="0" width="393" height="381"/>
+<SubTexture name="FUCKYOU_4" x="0" y="481" width="393" height="381"/>
+<SubTexture name="FUCKYOU_5" x="393" y="481" width="393" height="381"/>
+<SubTexture name="FUCKYOU_6" x="786" y="481" width="392" height="381"/>
+<SubTexture name="FUCKYOU_7" x="1178" y="481" width="513" height="629"/>
+<SubTexture name="FUCKYOU_8" x="0" y="1110" width="474" height="590"/>
+<SubTexture name="FUCKYOU_9" x="474" y="1110" width="470" height="584"/>
+<SubTexture name="FUCKYOU_10" x="944" y="1110" width="473" height="590"/>
+<SubTexture name="FUCKYOU_11" x="1417" y="1110" width="472" height="589"/>
+<SubTexture name="FUCKYOU_12" x="0" y="1700" width="472" height="589"/>
+<SubTexture name="FUCKYOU_13" x="472" y="1700" width="472" height="589"/>
+<SubTexture name="FUCKYOU_14" x="944" y="1700" width="472" height="589"/>
+<SubTexture name="FUCKYOU_15" x="1416" y="1700" width="478" height="595"/>
+<SubTexture name="FUCKYOU_16" x="0" y="2295" width="592" height="677"/>
+<SubTexture name="FUCKYOU_17" x="592" y="2295" width="1" height="1"/>
+<SubTexture name="FUCKYOU_18" x="593" y="2295" width="1" height="1"/>
+<SubTexture name="FUCKYOU_19" x="594" y="2295" width="1" height="1"/>
+</TextureAtlas>

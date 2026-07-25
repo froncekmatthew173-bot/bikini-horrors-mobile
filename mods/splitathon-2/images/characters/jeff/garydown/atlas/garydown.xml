@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="garydown.png">
+<SubTexture name="garydown0" x="0" y="0" width="86" height="136"/>
+<SubTexture name="garydown1" x="86" y="0" width="86" height="136"/>
+<SubTexture name="garydown2" x="172" y="0" width="85" height="138"/>
+<SubTexture name="garydown3" x="257" y="0" width="85" height="138"/>
+<SubTexture name="garydown4" x="342" y="0" width="84" height="138"/>
+<SubTexture name="garydown5" x="426" y="0" width="84" height="138"/>
+<SubTexture name="garydown6" x="510" y="0" width="84" height="139"/>
+<SubTexture name="garydown7" x="594" y="0" width="84" height="139"/>
+<SubTexture name="garydown8" x="678" y="0" width="84" height="139"/>
+<SubTexture name="garydown9" x="762" y="0" width="84" height="139"/>
+<SubTexture name="garydown10" x="846" y="0" width="84" height="139"/>
+<SubTexture name="garydown11" x="930" y="0" width="84" height="139"/>
+<SubTexture name="garydown12" x="1014" y="0" width="84" height="139"/>
+<SubTexture name="garydown13" x="1098" y="0" width="84" height="139"/>
+<SubTexture name="garydown14" x="1182" y="0" width="84" height="139"/>
+</TextureAtlas>

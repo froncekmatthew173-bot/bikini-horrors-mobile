@@ -1,0 +1,16 @@
+{
+	"customValues": {},
+	"color": "#9271FD",
+	"opponentModeAllowed": false,
+	"icon": "daveandbambi",
+	"difficulties": [
+		"events",
+		"normal"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "splitathon-2",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 100
+}

@@ -1,0 +1,20 @@
+{
+	"animations": [
+		{
+			"prefix": "jeff_idle0",
+			"fps": 24,
+			"loop": false,
+			"name": "default"
+		}
+	],
+	"image": "jeff_idle",
+	"position": [
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"scale": 1
+}

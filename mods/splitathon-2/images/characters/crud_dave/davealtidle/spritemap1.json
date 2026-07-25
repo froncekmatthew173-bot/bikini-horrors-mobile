@@ -1,0 +1,111 @@
+{
+	"ATLAS": "davealtidle.png",
+	"SPRITES": [
+		{
+			"h": 647,
+			"w": 375,
+			"x": 0,
+			"y": 0,
+			"name": "davealtidle0"
+		},
+		{
+			"h": 647,
+			"w": 375,
+			"x": 375,
+			"y": 0,
+			"name": "davealtidle1"
+		},
+		{
+			"h": 648,
+			"w": 362,
+			"x": 750,
+			"y": 0,
+			"name": "davealtidle2"
+		},
+		{
+			"h": 648,
+			"w": 362,
+			"x": 1112,
+			"y": 0,
+			"name": "davealtidle3"
+		},
+		{
+			"h": 646,
+			"w": 348,
+			"x": 1474,
+			"y": 0,
+			"name": "davealtidle4"
+		},
+		{
+			"h": 646,
+			"w": 348,
+			"x": 0,
+			"y": 648,
+			"name": "davealtidle5"
+		},
+		{
+			"h": 643,
+			"w": 343,
+			"x": 348,
+			"y": 648,
+			"name": "davealtidle6"
+		},
+		{
+			"h": 643,
+			"w": 343,
+			"x": 691,
+			"y": 648,
+			"name": "davealtidle7"
+		},
+		{
+			"h": 644,
+			"w": 343,
+			"x": 1034,
+			"y": 648,
+			"name": "davealtidle8"
+		},
+		{
+			"h": 644,
+			"w": 343,
+			"x": 1377,
+			"y": 648,
+			"name": "davealtidle9"
+		},
+		{
+			"h": 644,
+			"w": 343,
+			"x": 0,
+			"y": 1294,
+			"name": "davealtidle10"
+		},
+		{
+			"h": 644,
+			"w": 343,
+			"x": 343,
+			"y": 1294,
+			"name": "davealtidle11"
+		},
+		{
+			"h": 644,
+			"w": 343,
+			"x": 686,
+			"y": 1294,
+			"name": "davealtidle12"
+		},
+		{
+			"h": 644,
+			"w": 343,
+			"x": 1029,
+			"y": 1294,
+			"name": "davealtidle13"
+		},
+		{
+			"h": 644,
+			"w": 343,
+			"x": 1372,
+			"y": 1294,
+			"name": "davealtidle14"
+		}
+	],
+	"SCALE": 1
+}

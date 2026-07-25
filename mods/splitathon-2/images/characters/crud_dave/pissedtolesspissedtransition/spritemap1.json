@@ -1,0 +1,335 @@
+{
+	"ATLAS": "pissedtolesspissedtransition.png",
+	"SPRITES": [
+		{
+			"h": 649,
+			"w": 368,
+			"x": 0,
+			"y": 0,
+			"name": "pissedtolesspissedtransition0"
+		},
+		{
+			"h": 637,
+			"w": 355,
+			"x": 368,
+			"y": 0,
+			"name": "pissedtolesspissedtransition1"
+		},
+		{
+			"h": 673,
+			"w": 454,
+			"x": 723,
+			"y": 0,
+			"name": "pissedtolesspissedtransition2"
+		},
+		{
+			"h": 673,
+			"w": 454,
+			"x": 1177,
+			"y": 0,
+			"name": "pissedtolesspissedtransition3"
+		},
+		{
+			"h": 651,
+			"w": 462,
+			"x": 0,
+			"y": 673,
+			"name": "pissedtolesspissedtransition4"
+		},
+		{
+			"h": 651,
+			"w": 462,
+			"x": 462,
+			"y": 673,
+			"name": "pissedtolesspissedtransition5"
+		},
+		{
+			"h": 655,
+			"w": 455,
+			"x": 924,
+			"y": 673,
+			"name": "pissedtolesspissedtransition6"
+		},
+		{
+			"h": 655,
+			"w": 455,
+			"x": 1379,
+			"y": 673,
+			"name": "pissedtolesspissedtransition7"
+		},
+		{
+			"h": 657,
+			"w": 458,
+			"x": 0,
+			"y": 1328,
+			"name": "pissedtolesspissedtransition8"
+		},
+		{
+			"h": 657,
+			"w": 458,
+			"x": 458,
+			"y": 1328,
+			"name": "pissedtolesspissedtransition9"
+		},
+		{
+			"h": 657,
+			"w": 458,
+			"x": 916,
+			"y": 1328,
+			"name": "pissedtolesspissedtransition10"
+		},
+		{
+			"h": 657,
+			"w": 458,
+			"x": 1374,
+			"y": 1328,
+			"name": "pissedtolesspissedtransition11"
+		},
+		{
+			"h": 657,
+			"w": 458,
+			"x": 0,
+			"y": 1985,
+			"name": "pissedtolesspissedtransition12"
+		},
+		{
+			"h": 657,
+			"w": 458,
+			"x": 458,
+			"y": 1985,
+			"name": "pissedtolesspissedtransition13"
+		},
+		{
+			"h": 660,
+			"w": 459,
+			"x": 916,
+			"y": 1985,
+			"name": "pissedtolesspissedtransition14"
+		},
+		{
+			"h": 660,
+			"w": 459,
+			"x": 1375,
+			"y": 1985,
+			"name": "pissedtolesspissedtransition15"
+		},
+		{
+			"h": 670,
+			"w": 477,
+			"x": 0,
+			"y": 2645,
+			"name": "pissedtolesspissedtransition16"
+		},
+		{
+			"h": 670,
+			"w": 477,
+			"x": 477,
+			"y": 2645,
+			"name": "pissedtolesspissedtransition17"
+		},
+		{
+			"h": 675,
+			"w": 474,
+			"x": 954,
+			"y": 2645,
+			"name": "pissedtolesspissedtransition18"
+		},
+		{
+			"h": 675,
+			"w": 474,
+			"x": 1428,
+			"y": 2645,
+			"name": "pissedtolesspissedtransition19"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 0,
+			"y": 3320,
+			"name": "pissedtolesspissedtransition20"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 473,
+			"y": 3320,
+			"name": "pissedtolesspissedtransition21"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 946,
+			"y": 3320,
+			"name": "pissedtolesspissedtransition22"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 1419,
+			"y": 3320,
+			"name": "pissedtolesspissedtransition23"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 0,
+			"y": 3995,
+			"name": "pissedtolesspissedtransition24"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 473,
+			"y": 3995,
+			"name": "pissedtolesspissedtransition25"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 946,
+			"y": 3995,
+			"name": "pissedtolesspissedtransition26"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 1419,
+			"y": 3995,
+			"name": "pissedtolesspissedtransition27"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 0,
+			"y": 4670,
+			"name": "pissedtolesspissedtransition28"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 473,
+			"y": 4670,
+			"name": "pissedtolesspissedtransition29"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 946,
+			"y": 4670,
+			"name": "pissedtolesspissedtransition30"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 1419,
+			"y": 4670,
+			"name": "pissedtolesspissedtransition31"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 0,
+			"y": 5345,
+			"name": "pissedtolesspissedtransition32"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 473,
+			"y": 5345,
+			"name": "pissedtolesspissedtransition33"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 946,
+			"y": 5345,
+			"name": "pissedtolesspissedtransition34"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 1419,
+			"y": 5345,
+			"name": "pissedtolesspissedtransition35"
+		},
+		{
+			"h": 675,
+			"w": 473,
+			"x": 0,
+			"y": 6020,
+			"name": "pissedtolesspissedtransition36"
+		},
+		{
+			"h": 690,
+			"w": 487,
+			"x": 473,
+			"y": 6020,
+			"name": "pissedtolesspissedtransition37"
+		},
+		{
+			"h": 690,
+			"w": 487,
+			"x": 960,
+			"y": 6020,
+			"name": "pissedtolesspissedtransition38"
+		},
+		{
+			"h": 702,
+			"w": 494,
+			"x": 1447,
+			"y": 6020,
+			"name": "pissedtolesspissedtransition39"
+		},
+		{
+			"h": 702,
+			"w": 494,
+			"x": 0,
+			"y": 6722,
+			"name": "pissedtolesspissedtransition40"
+		},
+		{
+			"h": 702,
+			"w": 494,
+			"x": 494,
+			"y": 6722,
+			"name": "pissedtolesspissedtransition41"
+		},
+		{
+			"h": 632,
+			"w": 375,
+			"x": 988,
+			"y": 6722,
+			"name": "pissedtolesspissedtransition42"
+		},
+		{
+			"h": 632,
+			"w": 375,
+			"x": 1363,
+			"y": 6722,
+			"name": "pissedtolesspissedtransition43"
+		},
+		{
+			"h": 650,
+			"w": 369,
+			"x": 0,
+			"y": 7424,
+			"name": "pissedtolesspissedtransition44"
+		},
+		{
+			"h": 650,
+			"w": 369,
+			"x": 369,
+			"y": 7424,
+			"name": "pissedtolesspissedtransition45"
+		},
+		{
+			"h": 651,
+			"w": 368,
+			"x": 738,
+			"y": 7424,
+			"name": "pissedtolesspissedtransition46"
+		}
+	],
+	"SCALE": 1
+}

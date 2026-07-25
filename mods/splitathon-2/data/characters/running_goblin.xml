@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Converted using Psych2CNE hackx2.github.io/Psych2CNE/ -->
+<character isPlayer="false" icon="running_goblin" color="#1ab44a" sprite="running_goblin" flipX="false" holdTime="6.1" camy="400">
+  <anim name="singRIGHT" anim="right" loop="false" x="-150" y="-353" />
+  <anim name="singLEFT" anim="left" loop="false" x="101" y="-325" />
+  <anim name="singUP" anim="up" loop="false" x="-188" y="-330" />
+  <anim name="singDOWN" anim="down" loop="false" x="-188" y="-360" />
+  <anim name="idle" anim="idle" loop="true" x="-120" y="-410" />
+</character>

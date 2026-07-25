@@ -1,0 +1,22 @@
+<TextureAtlas imagePath="msingRIGHT_pissed.png">
+<SubTexture name="msingRIGHT_pissed0" x="0" y="0" width="519" height="637"/>
+<SubTexture name="msingRIGHT_pissed1" x="519" y="0" width="437" height="624"/>
+<SubTexture name="msingRIGHT_pissed2" x="956" y="0" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed3" x="1381" y="0" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed4" x="0" y="637" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed5" x="425" y="637" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed6" x="850" y="637" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed7" x="1275" y="637" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed8" x="0" y="1249" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed9" x="425" y="1249" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed10" x="850" y="1249" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed11" x="1275" y="1249" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed12" x="0" y="1861" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed13" x="425" y="1861" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed14" x="850" y="1861" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed15" x="1275" y="1861" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed16" x="0" y="2473" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed17" x="425" y="2473" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed18" x="850" y="2473" width="425" height="612"/>
+<SubTexture name="msingRIGHT_pissed19" x="1275" y="2473" width="425" height="612"/>
+</TextureAtlas>
