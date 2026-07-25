@@ -1947,44 +1947,44 @@ class PlayState extends MusicBeatState
 			if (strumLines.members[strumLineIdx] != null && strumLines.members[strumLineIdx].characters != null) {
 				var strLine = strumLines.members[strumLineIdx];
 				var oldCharacter = strLine.characters[0];
-				if (oldCharacter == null || oldCharacter.curCharacter == newCharName) break;
+				if (oldCharacter != null && oldCharacter.curCharacter != newCharName) {
+					var changeEvent = gameAndCharsEvent("onChangeCharacter", EventManager.get(ChangeCharacterEvent).recycle(strumLineIdx, newCharName));
+					if (!changeEvent.cancelled) {
+						var posName = switch(strLine.data.type) {
+							case 0: "dad";
+							case 1: "boyfriend";
+							case 2: "girlfriend";
+							default: "dad";
+						};
+						if (strLine.data.position != null) posName = strLine.data.position;
 
-				var changeEvent = gameAndCharsEvent("onChangeCharacter", EventManager.get(ChangeCharacterEvent).recycle(strumLineIdx, newCharName));
-				if (changeEvent.cancelled) break;
+						var newCharacter = new Character(oldCharacter.x, oldCharacter.y, newCharName, stage.isCharFlipped(newCharName, oldCharacter.isPlayer));
+						stage.applyCharStuff(newCharacter, posName, 0);
 
-				var posName = switch(strLine.data.type) {
-					case 0: "dad";
-					case 1: "boyfriend";
-					case 2: "girlfriend";
-					default: "dad";
-				};
-				if (strLine.data.position != null) posName = strLine.data.position;
+						insert(members.indexOf(oldCharacter), newCharacter);
+						newCharacter.active = newCharacter.visible = true;
+						remove(oldCharacter);
 
-				var newCharacter = new Character(oldCharacter.x, oldCharacter.y, newCharName, stage.isCharFlipped(newCharName, oldCharacter.isPlayer));
-				stage.applyCharStuff(newCharacter, posName, 0);
+						if (stage.characterPoses[newCharName] == null) newCharacter.setPosition(oldCharacter.x, oldCharacter.y);
+						if (newCharacter.hasAnim(oldCharacter.getAnimName())) newCharacter.playAnim(oldCharacter.getAnimName(), true, oldCharacter.lastAnimContext, false, oldCharacter.animation?.curAnim?.curFrame);
+						strLine.characters[0] = newCharacter;
 
-				insert(members.indexOf(oldCharacter), newCharacter);
-				newCharacter.active = newCharacter.visible = true;
-				remove(oldCharacter);
+						if (strumLineIdx != 2) {
+							var oldIcon = oldCharacter.isPlayer ? iconP1 : iconP2;
+							oldIcon.setIcon(newCharacter.getIcon());
+							if (Options.colorHealthBar) {
+								healthBar.createFilledBar(
+									dad != null && dad.iconColor != null ? dad.iconColor : (PlayState.opponentMode ? 0xFF66FF33 : 0xFFFF0000),
+									boyfriend != null && boyfriend.iconColor != null ? boyfriend.iconColor : (PlayState.opponentMode ? 0xFFFF0000 : 0xFF66FF33)
+								);
+								healthBar.updateHitbox();
+								healthBar.updateValueFromParent();
+							}
+						}
 
-				if (stage.characterPoses[newCharName] == null) newCharacter.setPosition(oldCharacter.x, oldCharacter.y);
-				if (newCharacter.hasAnim(oldCharacter.getAnimName())) newCharacter.playAnim(oldCharacter.getAnimName(), true, oldCharacter.lastAnimContext, false, oldCharacter.animation?.curAnim?.curFrame);
-				strLine.characters[0] = newCharacter;
-
-				if (strumLineIdx != 2) {
-					var oldIcon = oldCharacter.isPlayer ? iconP1 : iconP2;
-					oldIcon.setIcon(newCharacter.getIcon());
-					if (Options.colorHealthBar) {
-						healthBar.createFilledBar(
-							dad != null && dad.iconColor != null ? dad.iconColor : (PlayState.opponentMode ? 0xFF66FF33 : 0xFFFF0000),
-							boyfriend != null && boyfriend.iconColor != null ? boyfriend.iconColor : (PlayState.opponentMode ? 0xFFFF0000 : 0xFF66FF33)
-						);
-						healthBar.updateHitbox();
-						healthBar.updateValueFromParent();
+						oldCharacter.destroy();
 					}
 				}
-
-				oldCharacter.destroy();
 			}
 			case "Unknown": // nothing
 		}
